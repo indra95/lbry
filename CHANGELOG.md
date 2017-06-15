@@ -13,6 +13,7 @@ at anytime.
   * Add `change_address` argument to `publish`
   * Add `unique_contacts` count to `status` response
   * Add `claim_signature_update`
+  * Add `channel_update`
 
 ### Changed
   * Support resolution of multiple uris with `resolve`, all results are keyed by uri
